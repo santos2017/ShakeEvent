@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8ab0897b7b35a36ea20190e9df6800de62287f4f">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a302dcc5a99c0f8f3a7a548e824088d7a82f9fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6d0f7f42e0b715f66f577e9e5ea4191ae162e7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_beaa3db5348cb3312b755a03943ca52e69a934fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_a2bebca1ade89b59450cd32d79ca4c3c786afb41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9d3a5a0177bab6c15a74d0b12e5d55351f9e24a9">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\instant-run_454cc983ce4304eced5c754098967cb7c8298cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\centy\StudioProjects\ShakeEvent\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d220215c066bb7b9c31eb13d46cd257232d8ee26.jar" />
+    </item>
+
+</items>
