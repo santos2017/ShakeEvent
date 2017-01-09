@@ -89,17 +89,9 @@ public class MyService extends Service implements SensorEventListener {
         pm = (PowerManager) getSystemService(Context.POWER_SERVICE);
         wl = pm.newWakeLock(PowerManager.SCREEN_BRIGHT_WAKE_LOCK | PowerManager.ON_AFTER_RELEASE| PowerManager.ACQUIRE_CAUSES_WAKEUP, "FlashActivity");
         if (!pm.isScreenOn()) {
-            Log.d("Shake", "In loop");
             try {
                 wl.acquire(60 * 1000);
                 if (wl.isHeld()) {
-                    Log.d("Shake", "Lock acquired");
-                    //if (pm.isPowerSaveMode())
-                    //    Log.d("Shake", "PM on");
-                    //if (pm.isWakeLockLevelSupported(PowerManager.SCREEN_BRIGHT_WAKE_LOCK))
-                    //    Log.d("Shake", "Supported");
-                    //else
-                    //    Log.d("Shake", "Not supported");
                 }
                 else
                     Log.d("Shake", "Lock not acquired");
